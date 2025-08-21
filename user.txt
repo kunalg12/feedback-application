@@ -1,0 +1,11 @@
+Admin:
+Email: admin@university.edu
+Password: admin123
+
+Faculty:
+Email: john.smith@university.edu
+Password: faculty123
+
+Student:
+Email: alice.johnson@student.university.edu
+Password: student123
